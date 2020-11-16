@@ -1,0 +1,14 @@
+E:\Semester 6\C#\own practice\Mid Assignment\bin\Debug\Mid Assignment.exe.config
+E:\Semester 6\C#\own practice\Mid Assignment\bin\Debug\Mid Assignment.exe
+E:\Semester 6\C#\own practice\Mid Assignment\bin\Debug\Mid Assignment.pdb
+E:\Semester 6\C#\own practice\Mid Assignment\obj\Debug\Mid Assignment.csprojAssemblyReference.cache
+E:\Semester 6\C#\own practice\Mid Assignment\obj\Debug\Mid Assignment.csproj.CoreCompileInputs.cache
+E:\Semester 6\C#\own practice\Mid Assignment\obj\Debug\Mid Assignment.exe
+E:\Semester 6\C#\own practice\Mid Assignment\obj\Debug\Mid Assignment.pdb
+E:\Semester 6\C#\Mid Assesment\Mid Assignment\bin\Debug\Mid Assignment.exe.config
+E:\Semester 6\C#\Mid Assesment\Mid Assignment\bin\Debug\Mid Assignment.exe
+E:\Semester 6\C#\Mid Assesment\Mid Assignment\bin\Debug\Mid Assignment.pdb
+E:\Semester 6\C#\Mid Assesment\Mid Assignment\obj\Debug\Mid Assignment.csprojAssemblyReference.cache
+E:\Semester 6\C#\Mid Assesment\Mid Assignment\obj\Debug\Mid Assignment.csproj.CoreCompileInputs.cache
+E:\Semester 6\C#\Mid Assesment\Mid Assignment\obj\Debug\Mid Assignment.exe
+E:\Semester 6\C#\Mid Assesment\Mid Assignment\obj\Debug\Mid Assignment.pdb
